@@ -1,0 +1,33 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp
+temp/
+*.tmp
+*.log
+
+# Large data archives (keep CSVs only)
+*.zip
+*.rar
+*.7z
+*.tar.gz

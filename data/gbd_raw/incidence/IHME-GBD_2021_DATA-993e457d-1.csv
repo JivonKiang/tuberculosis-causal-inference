@@ -1,0 +1,289 @@
+measure,location,sex,age,cause,metric,year_start,year_end,val,upper,lower
+Deaths,High-middle SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7815694481604417,-0.6782620878932708,-0.8338449821417092
+Deaths,High-middle SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.8177129140114463,-0.7800413023845889,-0.8406440251458754
+Deaths,High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7879309311544397,-0.7232618645085789,-0.8252314086753922
+Deaths,Global,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6487233129899708,-0.47329031017574885,-0.7166458091048771
+Deaths,Global,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6646135621473095,-0.6183816030133339,-0.7053756640662927
+Deaths,Global,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.650994182903888,-0.5511102078974608,-0.6935502055455385
+Deaths,High-middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8137387795485406,-0.7151538079478769,-0.8607468722334578
+Deaths,High-middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8403672806286039,-0.7963997543905311,-0.8670690898061579
+Deaths,High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8185562172888852,-0.7570275237487557,-0.8575840737215609
+Deaths,High SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.8172022685908679,-0.7825381528699464,-0.8377252413968815
+Deaths,High SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7812180321830995,-0.7504748470475309,-0.8053666539311969
+Deaths,High SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.8024017638535256,-0.7738567814950772,-0.8219133475102004
+Deaths,High-middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.1986102420106395,1.6311987025599746,-0.6907470234386732
+Deaths,High-middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.40126083053549544,0.9128430990486883,-0.7645923063744764
+Deaths,High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.23027288059401932,1.4265941206155848,-0.6961941914804887
+Deaths,High SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8220188903972556,-0.7882187028426898,-0.8420535474268216
+Deaths,High SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7865888724569585,-0.7577388700446696,-0.8117333669264374
+Deaths,High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8075921945313568,-0.7798174922790319,-0.8271554937922903
+Deaths,Global,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6800484088955858,-0.5229124930907139,-0.7483770627117768
+Deaths,Global,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6950939147319567,-0.6468204474340428,-0.7372919388912786
+Deaths,Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6823936399397584,-0.5938579521843158,-0.733061916152486
+Deaths,High SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.6810669637653483,-0.38017320013613065,-0.8355760428877417
+Deaths,High SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.6221754986404812,-0.24525798650282532,-0.8143826691051008
+Deaths,High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.6544239642088502,-0.3325975184462577,-0.8219255841339079
+Deaths,Global,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,2.363718939808533,7.8677203885308895,0.3448251551032983
+Deaths,Global,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,2.494362948424995,7.729141480514298,0.4309766925994088
+Deaths,Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,2.450958424753857,7.392104934380246,0.3716753772479005
+Deaths,Low-middle SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6528020261019596,-0.4632020957437218,-0.7384418065947971
+Deaths,Low-middle SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.689944920917607,-0.631603466700059,-0.7563445717130686
+Deaths,Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6723402202733625,-0.5637749321064082,-0.727263961609166
+Deaths,Low SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,8.016069979787902,18.79411555405144,3.255231649876723
+Deaths,Low SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,7.515119762357438,16.772646953026157,3.186258723596131
+Deaths,Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,7.741477730653253,16.997148974933484,3.266465632948879
+Deaths,Low SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.5952909287048433,-0.39298111187911905,-0.6775269884484545
+Deaths,Low SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6303566413594666,-0.5693060246669732,-0.6801706355780796
+Deaths,Low SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6127647153285876,-0.5039222551460165,-0.6673446166441052
+Deaths,Low-middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6886382482621513,-0.5212324276493672,-0.776464512724217
+Deaths,Low-middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7243064626213483,-0.6681959089431229,-0.7856202998948365
+Deaths,Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7071446519077769,-0.6110171225239373,-0.7721119312055619
+Deaths,Low-middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,14.500187953455663,47.16954802227397,3.7782820444030345
+Deaths,Low-middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,13.525133831937564,43.21225446972634,3.422196940254365
+Deaths,Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,13.918667271855194,43.5671119922623,3.621374305619262
+Deaths,Middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,0.16381569261117915,2.8089484698196676,-0.6143709748873026
+Deaths,Middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.07028652433680944,1.9096728145372033,-0.6644725804970091
+Deaths,Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,0.06262521830351926,2.395446865324874,-0.6375498914052931
+Deaths,Low SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6298533532398848,-0.44718516996388946,-0.7132615889987968
+Deaths,Low SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6604759972747706,-0.5961468750608173,-0.7131853999418086
+Deaths,Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6452087773577557,-0.5458502552262549,-0.7063874290556887
+Deaths,Middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.737011322900512,-0.5644426607119352,-0.7995535886989026
+Deaths,Middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7898872463714921,-0.7602239073399679,-0.8189713748609235
+Deaths,Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7585366678543537,-0.6704600291453852,-0.7977805119369017
+Deaths,Middle SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7176042219194427,-0.5303761531844463,-0.7800680491622426
+Deaths,Middle SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7734977005876275,-0.7439054722566527,-0.7974572036715291
+Deaths,Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7403786347239032,-0.6383558450036709,-0.7786590100587214
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7991527604507221,-0.715855917103577,-0.8427328041230033
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8279543499747349,-0.7903908661317498,-0.8536529186510504
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8065481251725759,-0.7534522690012876,-0.8414838171285417
+DALYs (Disability-Adjusted Life Years),High SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.8294313635297131,-0.7875519060584942,-0.8493593049940742
+DALYs (Disability-Adjusted Life Years),High SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.8023717680290405,-0.7683604228416885,-0.8239527996555678
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.817628422184155,-0.7851563701940603,-0.8363184331667632
+DALYs (Disability-Adjusted Life Years),High SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8345847874246967,-0.7938292034766417,-0.8542088971279018
+DALYs (Disability-Adjusted Life Years),High SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8078312917644682,-0.7727567080449749,-0.8293367555123989
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.8230185592174285,-0.7909138095699348,-0.8417810748572051
+DALYs (Disability-Adjusted Life Years),High SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.6746499273889099,-0.3594436384070606,-0.8386037796603557
+DALYs (Disability-Adjusted Life Years),High SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.6044310355786154,-0.09698793879310857,-0.8244576916216195
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.6467863382169393,-0.29419131331854503,-0.8271230060217551
+DALYs (Disability-Adjusted Life Years),Low SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6217771226910431,-0.4545349955284298,-0.6880488848822717
+DALYs (Disability-Adjusted Life Years),Low SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6785138944108031,-0.6283646609608444,-0.7209435472391112
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6484579911379661,-0.5606627010024456,-0.69544649299127
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6623755608824977,-0.5002727958308866,-0.7375051765161733
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7163132953290821,-0.6704918197190479,-0.7734534908513495
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6881919679446309,-0.6033544313750719,-0.7334805596742029
+DALYs (Disability-Adjusted Life Years),Global,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6312597594715035,-0.4729055526274216,-0.6934496889732575
+DALYs (Disability-Adjusted Life Years),Global,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6747836148199692,-0.630667525126286,-0.7123491368352082
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6484512509740588,-0.5674680062750572,-0.6880785089378488
+DALYs (Disability-Adjusted Life Years),Low SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6521996737245772,-0.491618892504165,-0.7193541566311965
+DALYs (Disability-Adjusted Life Years),Low SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7030665501600578,-0.6549613475602305,-0.7494262971125272
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6761498451394272,-0.5940755027723639,-0.7253806965181475
+DALYs (Disability-Adjusted Life Years),Low SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,7.2979405827277635,16.756118259766403,2.944791871147555
+DALYs (Disability-Adjusted Life Years),Low SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,6.199150687250309,13.887339288490129,2.4740848506533992
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,6.7877012617783,14.875321435323754,2.735984377469389
+DALYs (Disability-Adjusted Life Years),Global,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6629327299336312,-0.5222838282478737,-0.723901657861761
+DALYs (Disability-Adjusted Life Years),Global,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.702598524477,-0.6542243546051681,-0.7424995954382607
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6786251127103136,-0.6032308234796737,-0.7225653885885065
+DALYs (Disability-Adjusted Life Years),Middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,0.22352159565716107,3.1269185069247425,-0.5905926447567766
+DALYs (Disability-Adjusted Life Years),Middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.030029993691523375,2.1719619225286833,-0.6623382713131263
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,0.11213705348203995,2.6483524814138018,-0.6207037726855054
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6963705639724941,-0.5542332404705708,-0.7720397236361283
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7462522334445897,-0.7025184214428777,-0.7977849347619137
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7201926591712637,-0.6426588234374384,-0.7770195116591513
+DALYs (Disability-Adjusted Life Years),Global,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,2.6628083707721495,8.286363221453414,0.47648804678935636
+DALYs (Disability-Adjusted Life Years),Global,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,2.656228849156741,7.5602636391028515,0.5409242959465155
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,2.679979385156393,7.700760609641689,0.5296809642868433
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,13.863495797315808,43.54948640110646,3.513259641103784
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,11.980510567112077,38.646918050187566,3.1353605103458078
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,12.941116343449536,40.88521310770456,3.2888073048041573
+DALYs (Disability-Adjusted Life Years),Middle SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6989375538561231,-0.536828396883372,-0.7496946990274066
+DALYs (Disability-Adjusted Life Years),Middle SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7635398072986905,-0.7356407293475007,-0.7843322015536524
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7268202747344472,-0.6469835268463291,-0.7588945277913172
+DALYs (Disability-Adjusted Life Years),Middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7186109771377021,-0.5702955309965899,-0.7702872867708477
+DALYs (Disability-Adjusted Life Years),Middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.7795168233216214,-0.7535993846757112,-0.8086368053273145
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.744890756433041,-0.6716109421495624,-0.7818619078253526
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7644309157355047,-0.6696523802212606,-0.8088505561276529
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.8055392113457962,-0.7683702352078535,-0.8301039488148647
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.7751576506789607,-0.7203463200650975,-0.8066919669837723
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.07558559157609007,1.8636590150749508,-0.6461048331113792
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.32972256335749406,1.1656875603618087,-0.7368625219979806
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.13792479057912302,1.7222426205964692,-0.6668890752382184
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Tuberculosis,Percent,1990,2021,-0.3838517585654892,-0.3516057855623193,-0.4114527183016455
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Tuberculosis,Percent,1990,2021,-0.4580298124889687,-0.4299324793565394,-0.4859478144520142
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Tuberculosis,Percent,1990,2021,-0.4185883032428669,-0.3904618686650773,-0.4461060393746969
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.4004897182351061,-0.3702105911354982,-0.4288434213781957
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.4544515067492536,-0.4280298540911693,-0.482056341478718
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.4236794750551266,-0.3968518030877181,-0.4513499182214621
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.4516835979402528,-0.4143372757363306,-0.4839521768179592
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.5229263493526993,-0.4936897600280406,-0.5527070919468005
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.487999266509363,-0.4577003799270682,-0.5196375018973372
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.4628944482474932,-0.4288257437664474,-0.4945299630799918
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.5208903262227498,-0.4937859753768753,-0.5480393769098546
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.4911305076989711,-0.4623755910095722,-0.5206595970473067
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,-0.2677446328170116,0.644309581432053,-0.6465927081755225
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,-0.1331549791611856,0.7999029182523015,-0.5735038158834489
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,-0.2089201250349689,0.7302673677552372,-0.610673649430504
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.2397529985871612,0.7118999766072724,-0.6325193081326779
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.0737340062918333,0.9289851487113396,-0.5448183632290209
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,-0.1671986428669518,0.8159995126366298,-0.5900717384271882
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.3994004434648167,-0.365100442277653,-0.433612234899113
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.5301256579943676,-0.5009738177946373,-0.5588618419397864
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.4693362445985265,-0.4395832666827204,-0.5008893185825979
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.451408452848745,-0.4240550145226323,-0.4803124865804795
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.5569160402930265,-0.532997417724936,-0.5802890851281302
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.50617636467226,-0.4819907522286909,-0.5303988894175056
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Tuberculosis,Percent,1990,2021,-0.5028182195036056,-0.4759476656737983,-0.5278308732460053
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Tuberculosis,Percent,1990,2021,-0.5291098486437787,-0.4969814913479973,-0.5583286077332039
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Tuberculosis,Percent,1990,2021,-0.5101855712426139,-0.4845287352889287,-0.534871915399894
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.5255425357937656,-0.5011089594725772,-0.548540751342032
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.5365938567588472,-0.5066455547295242,-0.5651758697603787
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.5256001548561993,-0.500469339201039,-0.5482759620370248
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.4102376881373579,-0.3737277714808483,-0.4451077534407128
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.4806386398621814,-0.4511971183520672,-0.5110776328126185
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.4432432106904043,-0.4126709989463879,-0.4762145422628967
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.4260817479540734,-0.3926937481976951,-0.4617246012963695
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.4771405650823625,-0.4504264089469637,-0.5077231500031903
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.4480434046941529,-0.4193706469775417,-0.4799443766600715
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,3.734202423520719,11.47612383740135,0.724039974327735
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,4.49806915035728,12.593066647291378,1.2000244232799533
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,4.056756195164435,11.821752361373328,0.9251945764758028
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,3.60259137742077,11.171723693587698,0.6833053292046611
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,4.526860468031567,12.660107557266976,1.2526468707143508
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,4.0075895232354775,11.684256789468211,0.9227166081417144
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.6541784457820241,-0.6280688344584757,-0.6778642688436904
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.6309209984020576,-0.5969755591313533,-0.6615107993957563
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.6391331807642143,-0.61351826453155,-0.6609770096203553
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6411990827935244,-0.6141423686944956,-0.6657243314868098
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6063033637055586,-0.57022568421852,-0.6369157032414018
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.6205754273237718,-0.5936642650248123,-0.6437893290833929
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Male,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Female,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Tuberculosis,Percent,1990,2021,-0.4461386395534633,-0.4075315547739702,-0.4822134604347515
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Tuberculosis,Percent,1990,2021,-0.555622753854047,-0.5269717453378753,-0.5868299252917097
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Tuberculosis,Percent,1990,2021,-0.5050216040091671,-0.4727908622568407,-0.5373200791395689
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.4821060353388549,-0.4478597253493541,-0.5160351740064923
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.5687018750506865,-0.5425708246226872,-0.5968256602054246
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.526619281913096,-0.4976195026696235,-0.5564527965268105
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.5346937277166354,-0.5015916951585385,-0.568782943824143
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.5606352927204331,-0.5252807236974573,-0.5949328068239568
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.5424393579342403,-0.5122808844562194,-0.5746384609740718
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.5560077147332364,-0.5240977611057371,-0.5887513122848149
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.5676903811109609,-0.5343840829639734,-0.5997355267890621
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.5568987207851944,-0.5276538352224966,-0.5878358903908274
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Tuberculosis,Percent,1990,2021,-0.4318550190447511,-0.3995483718621102,-0.4601149753539944
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Tuberculosis,Percent,1990,2021,-0.5049713587607054,-0.4771489593032975,-0.5298978377513717
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Tuberculosis,Percent,1990,2021,-0.469092386317873,-0.4436410590636017,-0.4940299210338722
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.4435251351704345,-0.4124938714119965,-0.4705155869162973
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.5029017585304622,-0.4766465312790086,-0.5266936108673754
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.4723865157303797,-0.4466374994704902,-0.4964071871415659
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Tuberculosis,Percent,1990,2021,-0.6481988497698773,-0.6238663304972543,-0.6699887849986643
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Tuberculosis,Percent,1990,2021,-0.6246979326716052,-0.5919906853857301,-0.6548470152550019
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Tuberculosis,Percent,1990,2021,-0.6329705804760992,-0.6098411692391943,-0.6537458911363112
+YLDs (Years Lived with Disability),High SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.634990649417271,-0.6115648944735563,-0.6575144810389333
+YLDs (Years Lived with Disability),High SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.5996479428715149,-0.5647377776669602,-0.6296483127313917
+YLDs (Years Lived with Disability),High SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.6140848135266905,-0.5901852531932517,-0.6355430679573166
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.474503723129856,-0.4308784062192981,-0.5247814068436776
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.5778134684448465,-0.5447652038081351,-0.6178847782957684
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Percent,1990,2021,-0.5300975336735981,-0.4935538906473871,-0.5716358336017705
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.5085076383438543,-0.4700235769185146,-0.5568818957886484
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.5901478711500646,-0.5587838446782094,-0.6275918911524044
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,2021,-0.5504948442002692,-0.5174157649212074,-0.5914967609170263
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Tuberculosis,Percent,1990,2021,-0.3753755927798486,-0.3439108653700322,-0.4061152612143094
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Tuberculosis,Percent,1990,2021,-0.5127927526300472,-0.4831337047706809,-0.5416837855588641
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Tuberculosis,Percent,1990,2021,-0.4488712481871126,-0.4190985251404886,-0.4774430050763824
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Tuberculosis,Rate,1990,2021,-0.4295240662606756,-0.4046237841973109,-0.4553072607867529
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Tuberculosis,Rate,1990,2021,-0.5406174676547655,-0.5169127031011458,-0.5644358815787516
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1990,2021,-0.4871841899689042,-0.4649151974557358,-0.5107024853402603
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,27.04868829414081,92.40466398148789,6.651375341174964
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,20.330458089276448,62.66565321396027,5.293557176664304
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,23.45389118291701,76.75672459627614,5.8847596617974105
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,25.071011823334423,86.2897353345218,6.090518030260723
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,19.58310197925975,60.53936280982788,5.1672541129101965
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,22.250274300508494,73.3137467524646,5.565083760772314
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,0.9866537345784296,5.348061408395303,-0.3172454934828166
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,1.1839421078125163,5.726201605375503,-0.2118902133085205
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,1.0852760164771045,5.481617009801523,-0.2657600003563354
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,0.904569159550882,5.050139922953568,-0.3457786432249413
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,1.1612388309763093,5.603541251213381,-0.2208279994462842
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,1.0299317572315403,5.251656024201231,-0.2873426386296935
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,1.2620237207831684,6.923208936946573,-0.3214456465622584
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,1.52510053534221,6.610090388262467,-0.1362113356194801
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,1.3588064740966352,6.610141386843171,-0.2478657792010359
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,1.2155419732617123,6.717808913665184,-0.333114875932976
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,1.5357148868906156,6.644752675868134,-0.1395432649345944
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,1.344388710502006,6.607397835481109,-0.2547908352382119
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,11.74437671933346,28.7215063959388,4.4940059241275065
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,8.565407180427627,19.12408209883327,3.3327567321957874
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Percent,1990,2021,10.069840073577147,23.966413851945813,3.934144787551732
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,10.56146229794605,26.63911792680698,3.970902821643163
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,7.957683681782541,18.07286928277295,3.0568671311146955
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2021,9.230955368927935,22.335574158031875,3.665105165728969
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Percent,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Male,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Female,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0
+YLDs (Years Lived with Disability),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,2021,0.0,0.0,0.0

@@ -1,0 +1,961 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1990,1650.5905846481737,1824.7163473931978,1457.6365454571733
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,5600.870649466242,6565.480624936907,4813.275902770055
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,1636.7961014359303,1811.303197053988,1439.7947215520535
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1991,37.962036611623056,91.10655104735159,12.603337448134145
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1991,0.0048755740891284075,0.01959921528751533,0.0010763852657231104
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1991,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,13.794483212240861,32.79351582438804,5.175291088867985
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,1347.2233325866616,1467.6016814616066,1182.0744704887538
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,1322.1020421488663,1435.980338090831,1159.657717311784
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,25.121290437795604,65.75612667249572,7.2532148809493
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,391.1455026419089,441.2706635663781,339.1558976800181
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1992,0.0010558106208339824,0.0026329410238639713,0.0004095823455164803
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1992,27.07175283621268,58.163244340597785,10.598525710715622
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1992,0.008746563133179274,0.02534210602370034,0.003340592798818076
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1992,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1993,1550.2571425678977,1710.7578707510286,1387.834863118758
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1991,1617.2301459326566,1785.8244612673582,1431.62291335405
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1992,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1992,1588.7346452068386,1754.69218554153,1419.8102477738892
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1991,0.0004970838026194657,0.0015808617956166462,0.00014357848708447453
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1991,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1992,346.7802193188952,387.98660952495,304.964423213033
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1992,86.71080574752072,92.62897868561369,81.38130375788711
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,95.39930196377325,102.01321472168566,88.57560941523482
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,2.1073046461001486,4.050279302190095,0.9874269664899601
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1990,3701.848171970911,4126.900763866398,3225.0580318720704
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1992,373.8607187182412,412.1032291532821,335.016957396257
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1992,5520.849260604841,6428.552277827226,4759.898489335398
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1994,1519.1612475347656,1668.9223659024435,1361.9039810661839
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1995,1492.7053383778996,1635.985957468409,1343.7296409450873
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1991,5574.939501840838,6516.800096702662,4805.77242615409
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1991,360.6910609015337,399.08966664905336,315.8481883874037
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1993,1510.993328672904,1661.5344651439545,1355.9130774632688
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1993,39.056542828222696,76.13556883458399,18.197414270851212
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1993,0.20727106677318996,0.44065057915407047,0.09534573270671047
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1993,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1994,0.07302775027148327,0.1356325991689757,0.034274851630095395
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1993,0.034124043030283414,0.06559929201881283,0.016170783268450225
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1995,0.11200468021899807,0.21137855021521298,0.051207470052126634
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1996,1466.7907948392412,1601.1153001770892,1324.0105307241486
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1991,92.046566789045,98.0841777056231,86.29411698267513
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,20.238215351417285,43.72439834907409,7.476964960450251
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1995,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1992,83.33706792797352,88.9332939906597,77.44849767169757
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1992,3.372682008926354,6.506605013602502,1.6178056426017382
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1992,3527.0715311953873,3926.282325782209,3118.6756115573035
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1993,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1994,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1991,1300.7900863526158,1410.0687424609112,1155.8883865108417
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1992,1258.176656292753,1357.5835783150335,1123.7130981873217
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1996,1079.0933090600438,1161.8080896751928,992.7129127254854
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1992,3502.998999949454,3897.7438173735823,3102.827768981217
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1991,19.902221921397913,50.331111981028755,6.613944362879102
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1991,0.003565616378678501,0.013861280771273552,0.0008542354097052355
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1991,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1991,380.5968484393101,417.83302122633097,336.36834369822606
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1992,24.070515429639556,68.36447817437552,7.692568537956312
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1992,0.002015816296509533,0.00768673382812524,0.0005546728550615982
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1992,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1992,5470.717687809908,6381.902077105535,4738.87381099977
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1991,3592.631926061416,4020.8808995479835,3140.8713784168194
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1993,5443.830128097086,6324.679022629947,4730.920892350635
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1995,5302.375094567182,6218.956824268573,4635.42302397964
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1991,14.093033885661765,40.0899184849615,4.524062754723341
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1991,0.0007135679728091403,0.0036651749552069532,0.00012104552459534673
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1991,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1994,5373.436867306395,6264.279519138959,4659.237953477175
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1991,89.27696621544817,95.25761256972906,82.80260298224316
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1991,2.769103489794279,5.271132578556489,1.293607554719543
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1991,3606.725673515051,4032.8210629235127,3153.3994445789963
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1992,50.13057904856326,110.89733608347946,18.958705689516894
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1995,1115.3837097854819,1197.8665620914273,1020.2147617741226
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1992,1208.4464866108735,1308.0977068142404,1074.0344122102601
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1992,0.0009937463640076148,0.0032863205557207916,0.00033343664918313997
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1992,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,12.803519081841825,36.15571120562132,3.5924152701166223
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1993,1201.1847278518344,1297.932855005867,1085.4524744498012
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1992,49.71991142877544,112.40372999696217,19.448370821633038
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1992,0.010258253105169885,0.0323752735249614,0.0036046134957599943
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1992,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1991,32.53508992823428,70.80032348699027,11.972527383683076
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1991,0.00032240287334348424,0.001286221324876789,8.375000163517979e-05
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1991,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1994,1155.8881040924548,1243.3657274549294,1049.5399454330925
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1991,5542.404089509732,6471.914866153497,4780.659730163534
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1996,0.14709973999068432,0.2804169296412813,0.06872859204421575
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1996,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,378.34198356006675,424.3774355637208,328.8587949699619
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1997,0.17706998092640228,0.33277165616946924,0.08286565271141846
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1990,97.5066066098734,103.92417994159571,90.97915829915107
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1994,333.37423738408086,369.63766014244305,292.39921645541364
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1992,1558.8169261574096,1721.1782376240228,1392.448376440034
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1998,0.20717453857090104,0.3895637410811201,0.09770589749934645
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1997,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1997,1444.768659331306,1573.4442102802718,1304.0672569001165
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1994,77.54189346528612,82.41486614702848,73.12244267270205
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1996,5199.126758208618,6123.064561366999,4518.44371500158
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1994,41.554338576387046,74.78511151463064,20.122230753831534
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1994,0.7711645423687664,1.5072785437158027,0.37537060750355256
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1994,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1995,3170.5261115227077,3504.656675223368,2796.554811316207
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1992,29.91213171001747,62.69669887547229,13.15542893589579
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1992,0.005587339410222003,0.017321594782274262,0.0020798102409400657
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1992,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1998,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1990,3693.671437245128,4116.634284105633,3216.7968614080605
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1991,1262.8231741669035,1365.7253889863343,1127.1386747008376
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1999,1375.5836466187209,1494.5825645677119,1255.0904344596443
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1995,80.93071881180077,214.62656069479985,27.02399881133856
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1995,0.7181706745430345,1.7925083225299856,0.23173759901914892
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1995,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1990,8.176734725783314,24.00649881328852,2.6174411189907194
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1990,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1990,5621.108864817662,6585.697163087229,4837.43512165832
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,1998,1418.8876264321402,1549.3109088107046,1293.689198450872
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1997,5085.393430394175,6037.1699228594425,4419.532972346017
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1999,0.23537640555324088,0.4363555882378258,0.11207874101135636
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2000,1344.6399955946936,1454.1496605196842,1231.8095836920459
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1998,4988.015037071867,5886.672890713836,4324.757429148991
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1993,375.1318185027891,404.8309502902867,340.45192881657186
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1999,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1993,340.34145979078477,373.44974181006876,298.3414473562404
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1993,82.05639810542924,87.20927374717775,77.19466831933181
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1993,34.48798507978613,65.76725210694987,15.321249521075995
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1993,0.3023736322178744,0.6601301993078035,0.13652981398715308
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1993,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2000,0.2552264598327174,0.47538147486121235,0.12271810845161828
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1991,1595.837189021081,1767.7296448514294,1412.0625312849147
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1994,1469.714613823549,1616.6814731239226,1320.1773527690534
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1994,48.95238459100568,95.50238525518397,23.48253529200032
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1994,0.4942491202137498,1.0223419415581307,0.23832850600620484
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1994,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2001,1303.5903432641567,1414.1337399020929,1194.573113628291
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1997,1047.4248916717524,1120.206815778914,965.5065900667671
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1991,21.390492453527894,48.06461855954633,8.579223280892043
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1991,0.0024644580494384977,0.009885775982321631,0.0005778664702407215
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1991,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2000,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2001,0.27683541050447313,0.5185141800607959,0.1366738395806814
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,1999,4829.169648555513,5650.13743023286,4195.232567442741
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1998,1021.7203523941263,1082.728433720603,953.5866108111895
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2002,4399.698642136953,5207.988820940835,3797.8815587497975
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1993,78.16715772485504,83.48367979647433,72.33710868823364
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1993,3.8551163375440316,7.147892846723198,1.9061454612556061
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1993,3413.5295072125623,3763.652941088583,3023.5698905876247
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2002,1261.594196945987,1365.8549808871787,1156.3080517305516
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1993,3374.426408375465,3729.147215072519,2983.9995536372185
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1993,38.98247881965503,110.21299826560991,12.27768610476801
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1993,0.12062001744439056,0.31514404289066933,0.038310274812298734
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1993,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2000,4717.903484310631,5553.950233261456,4125.325386235095
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2001,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1995,5164.26307110542,6049.973137739357,4502.505073009992
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1996,1397.545115092434,1527.2622013364276,1257.6686779107852
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1996,67.97985672639713,134.13938664575954,31.94961651744326
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1996,1.2658230204085406,2.4265116425663273,0.5878531718629719
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1996,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1994,73.3017093160804,78.36258159977115,67.47202771849275
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1994,4.167156398934158,7.654367318065213,2.088047209074826
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1994,3323.2870156703934,3668.14573435634,2929.956609090469
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1996,1004.3122593371843,1088.0790135522407,903.1176736617422
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1996,73.13275090516142,133.0142968674105,34.63956737283985
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1996,1.6482988176988302,3.3018752981136057,0.7336517320993019
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1996,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1995,137.71092721486363,286.10874382732084,54.30380046989789
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,1999,981.1574774599688,1043.2190167648378,911.6746917543283
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1993,5369.600471693475,6249.101313487222,4645.474581574389
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1994,5269.021884590254,6146.199209505846,4563.030096495613
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1995,0.401096246896783,1.0688469151908904,0.12279725111225706
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1995,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1994,3264.220864412432,3594.449581491619,2879.2524540119234
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1995,1432.8970237203691,1568.266053124421,1294.701169598118
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1995,58.952592159202645,114.75979117471259,27.696815533676986
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1995,0.8557224983261388,1.6897855870763914,0.40912355291422003
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1995,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2002,896.3205437734296,950.787997008945,841.6982865280548
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1994,58.71261366302677,163.65876289905205,18.58829581479264
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1994,0.353537594934676,0.8868760239472083,0.11080293092150406
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1994,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1993,74.15815832190222,159.9267341340797,27.836801072417153
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1993,0.07149808170928432,0.1813730474545538,0.022538945831734766
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1993,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1994,104.21392718953219,219.85951262729273,40.036083943677255
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1994,0.20105552660892295,0.5210506288814788,0.0623115818286921
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1994,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2000,956.6609498717618,1017.2492060544554,898.4222583564631
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2001,4560.894755993509,5403.4702006093075,3933.8676454635915
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1995,1044.3111660548286,1130.9546934520056,938.1481304803563
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1995,69.86773244755874,130.15160436286914,32.848319552741785
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1995,1.2048112830951823,2.4445180856771245,0.5176280494295785
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1995,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2003,867.7762771980377,921.7276065338108,816.5066212140201
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1993,1142.4924125170849,1234.8095555929729,1032.8602207652943
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1993,58.33542729932631,119.35161238694633,25.410376203953486
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1993,0.3568880354212626,0.7932020282540095,0.14825942945912146
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1993,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2001,924.1467212782906,987.3302880855223,864.4616490639263
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1994,1090.2597491137897,1176.4776079910343,974.0566314676423
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2002,0.2930441305330357,0.5506865156156866,0.14439551183996505
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1994,64.86367209055739,125.80109063270066,30.76346485791893
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1994,0.7646828881053678,1.6158274850323435,0.31401300435378704
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1994,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2003,1215.1088881507703,1314.2500647901466,1119.139689980248
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2002,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2003,0.30982128125150477,0.5876351066648536,0.15084873791269016
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2003,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2004,1166.7219595372524,1268.0234206232592,1070.6629691037344
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2003,4258.428975503847,5052.058200180656,3696.8600093347336
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1996,314.87155120806756,348.8098222438938,271.76585327930695
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1996,69.31036025125496,73.6809222898294,65.53872774125497
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2004,0.31314655499074917,0.5800837076402049,0.15365894906541433
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2004,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2004,4079.7824682425285,4829.804288409676,3527.218019995614
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2004,834.417734512848,881.2975212334668,787.0796901898669
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1996,3098.937126322035,3410.2230853370193,2746.041628191161
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1996,103.35993055951434,260.5391807148133,34.68194380220644
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1996,1.2055036610658951,2.869382125278268,0.38937628992734385
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1996,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2005,1130.1932224420218,1227.553350031442,1035.1771590402689
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2005,0.309570236124753,0.5775589620604004,0.15077648255861256
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2005,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2005,3905.3863660226625,4585.019473075276,3389.7269810972184
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2005,803.9576141835661,851.1596409899249,757.9135132079723
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1996,52.06658695909121,88.93104886000982,27.911009219255952
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1996,2.109166166132519,3.8959088956734953,1.0490731862905212
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1996,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1995,325.5415837241951,359.465930332243,287.14234329217487
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1995,73.5459656095731,77.79365748374822,69.32198673705643
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1994,375.6997405028367,404.32404947016363,344.72046780329316
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2006,1087.6480662812276,1175.5404334314348,996.1987543089753
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1996,5028.303992971267,5919.296475415162,4364.031126229632
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2006,0.29604921485271196,0.5511021550367576,0.14617227909192784
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2006,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1995,374.64483782635455,403.2233084571674,346.8793251602758
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2006,3733.858733808775,4383.863941263678,3240.446675788018
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2006,766.767711556265,810.1117616251672,724.5289005688576
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1997,300.050867723121,332.1606244935065,258.20541598914144
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1997,64.59137085452961,68.42613645873374,60.8101222018676
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1995,47.709165963659956,81.86896983190051,24.48409295297879
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1995,1.3940881384995802,2.5969929801754947,0.6903368585012811
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1995,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1996,369.04730433329127,393.87472378617065,342.80462788203334
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1999,284.31927527033196,317.8157930113367,240.94086841396253
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1999,57.47500620479905,60.92300365572699,54.18178502641106
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1998,53.29368273017745,91.38499406708982,29.089529467167985
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1998,3.383315224640159,6.023878598410121,1.7160397855763063
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1998,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2007,1038.2341677330373,1116.3296244209378,949.3412949378762
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1995,69.13329473636918,73.85434209533975,63.772054771182276
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1995,4.300666192984873,7.947715427940313,2.1640713496824646
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1995,3252.1750010090536,3581.834067077178,2862.7473404876073
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1999,2821.9686329282795,3096.2747911806205,2505.5935402223113
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1998,285.95079420163734,318.5409306373608,244.3575940735026
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1999,155.98592691966525,349.6756913687135,57.07052831722732
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1999,2.914860906217558,6.554847926269083,1.056184319626388
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1999,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,1998,60.64975021746311,64.11028875154597,57.159813256384865
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1997,53.178079147238854,90.62670755684762,28.994484709697
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1997,2.76542905323871,4.988427469834603,1.3821874932852956
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1997,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1997,3058.7575607392646,3354.3740055272233,2726.2973518306135
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1997,122.60307577534897,291.1153050937709,40.400484595532305
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1997,1.745160355079572,3.9547972978914006,0.5731900047991627
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1997,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1997,1369.0025972254653,1494.5251138976173,1231.3456885504506
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2007,0.2884985615270155,0.5333913017120467,0.1433335221945813
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2007,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2007,3567.882840218789,4186.7514205556345,3078.2976534079385
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1997,74.11352620529014,140.49637390803215,34.37451515542968
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1997,1.6525359005502946,3.157003329724121,0.7524958570768667
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1997,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2007,724.848681928303,762.3347236853491,687.7456625805671
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1999,57.21191503825574,97.02103620295854,31.493250461561782
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1999,4.4078488341468205,7.854078480239683,2.3261427375412023
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1999,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1999,345.9390391427345,366.9858098535302,323.7340759610026
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1996,64.87195877680585,69.41081859589583,59.940828003059586
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1996,4.29130173445833,7.674551184597789,2.125891151854726
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1996,3203.5025605426126,3500.9630089341244,2841.7283782383356
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2000,276.2206106794096,310.2595753594925,232.20188936646096
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1998,2982.20010501801,3273.538686274022,2644.070849832096
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1998,141.5497233382026,324.6560908784371,48.34251008524577
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1998,2.3304386214365205,5.271332454055285,0.8038275567633894
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1998,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2000,53.04151115549248,56.23042642410105,49.96998892870734
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1998,342.6277921564547,362.15392810114434,317.75290135397466
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1997,355.9943759235981,379.1957384336705,331.06530553225986
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1997,4890.4798723825315,5814.551836473915,4265.214825825007
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1999,1287.5180974857278,1404.8469646864123,1158.333791154899
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1999,85.56613932029595,165.02329780025033,41.143540003824235
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1999,2.499409812697849,4.653275499651735,1.167986687217238
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1999,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1996,170.15557526151875,353.860962823074,68.31728026884731
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1999,53.289588166055445,57.12656021915749,49.11183801580019
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1999,3.950041633190323,6.96150229057431,1.953773609351562
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1999,2980.8694207541594,3208.714827196685,2710.2930385124064
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2008,996.5896846582987,1073.8041154682453,923.5969783942699
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1996,0.6671899758364663,1.7813820633483728,0.21055422185500056
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1996,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1998,56.40541211141398,60.267118237029955,52.099879885962835
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1998,4.037163567478282,7.128539828555599,2.0337826002560937
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1998,3126.080266977648,3389.0509401663176,2819.1977771492348
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1998,4766.8562418004685,5660.91767532313,4128.969058663954
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1999,237.0673450415982,489.10099179027225,98.93173208147198
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1999,1.7295127989991106,4.13004672019447,0.5764994481963103
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1999,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1999,4590.3727907149205,5440.253693354587,3983.9413459845186
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2000,2717.4044901258394,2966.00854485989,2419.804999960282
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2000,58.908747781225685,98.27289923141092,32.931176813341395
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2000,5.304605339500249,9.320349789684808,2.8200926020135246
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2000,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1998,219.80150286418166,455.91963865152474,89.99855480736136
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1998,1.3572924072185535,3.4138095537518813,0.44715407644215516
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1998,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2000,167.64432916155306,363.689373523386,64.18404632497153
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2000,3.503968757828334,7.596556250725266,1.3305932755019025
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2000,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1997,60.27023124955626,64.48425504914749,55.56059504959537
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1997,4.144069624046909,7.303288696807936,2.0958981364159093
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,1997,3183.105796869693,3460.9499252755554,2839.976195079741
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2008,0.2666785725802495,0.4928641723211892,0.13227546854411137
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2008,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2001,2606.592819095207,2838.7497963712817,2311.9684852755913
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2008,3399.564928304537,3992.6500221383562,2925.3663776602984
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2008,692.1203099121411,729.086420965078,656.4318583839563
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2000,1252.1873187781985,1358.5959526561342,1126.987434985452
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2000,89.51314707335018,171.19493409091524,43.0354403022908
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2000,2.939529743145921,5.506938106054407,1.3710755178623761
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2000,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2001,178.19218912991442,375.56910053313436,72.82901856916187
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2001,4.117232059179266,8.584911484100417,1.6527893200235568
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2001,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2009,944.6086004206633,1019.3032847068558,876.6125987857534
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1998,1336.7737858542646,1459.2813788342173,1209.4727164489611
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1998,945.7453057062602,1021.9732919466276,855.4134030466851
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1998,73.63693610163465,137.20030600954783,35.146555064673784
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1998,2.338110586231933,4.672435821014835,1.0546981720462059
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1998,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1998,80.08111814249757,153.545890870243,36.98013748521425
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1998,2.0327224353791813,3.8013622056794545,0.935214823355188
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,1998,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2000,4469.980270775202,5317.692963108454,3841.4101815434233
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1997,971.8157493754001,1053.8789786312848,877.5116964951496
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1997,73.59474394939043,137.86698536682857,35.27284216801323
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1997,2.0143983469614577,4.140759870678744,0.8882252423509721
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1997,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,1999,904.9726552517827,982.9689300568274,817.6695230823433
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1999,73.54597628237782,137.92362752364048,34.92852158270169
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1999,2.6388459258075665,5.188267939164538,1.1989339713681546
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1999,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,1997,193.93370406494537,402.65187461783376,77.93980844732305
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,1997,0.9798539467044134,2.4808811439493685,0.31363795156526
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,1997,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2000,49.003843959366435,52.568177393688224,44.87434619900406
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2000,3.7824407362932946,6.587200669294494,1.872931638564303
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2000,2888.5527880452214,3096.605108093268,2644.1967125934643
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2001,1208.2211379797488,1317.1613477583521,1080.2241432971468
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2001,92.05248004123756,173.1093616931829,45.00234350177928
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2001,3.316725243170272,6.170464599746383,1.5719000377925734
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2001,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2009,651.8267410048345,685.3860899358555,617.2282652999055
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2009,0.24116331382428322,0.440461207798216,0.11975073486708657
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2009,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2009,3243.516832361581,3809.380828833324,2799.4236490680137
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2010,900.6019010219566,974.4450694281426,834.3552651144306
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2000,878.9229706740497,950.2396702156963,792.9169926703911
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2000,74.78111147033098,136.56909253598482,35.2288588681143
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2000,2.956867727381597,5.724345324890308,1.3591377987585873
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2000,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2002,1164.5016490980104,1267.0008053360064,1042.7030801445046
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2002,93.39167348204968,173.8809129753299,45.86128783031867
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2002,3.700874365925737,6.869791527149771,1.7798615358316743
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2002,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2001,4308.659687511756,5132.397521836775,3694.4423273803673
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2001,249.78806036111794,508.7858115145682,105.5273869222345
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2001,2.4470081206403353,5.512775995415156,0.8374083313075139
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2001,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2000,245.83100611956914,502.35663332037774,101.98905799617668
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2000,2.0922074158670596,4.785353798074068,0.6923762857683001
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2000,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2010,0.22591564357776858,0.41142625252332415,0.11157610706004337
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2010,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2010,3093.558409388771,3638.968983488669,2685.6432499600637
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2010,613.414514052204,649.22095394889,578.9541745767407
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2002,818.0173157685629,885.5477026320821,736.8639070186092
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2011,863.7386547888813,938.5191610022968,803.2649136618587
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2002,74.82667578630422,135.37559878457822,35.87805335082912
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2002,3.476552218561688,6.817328329631183,1.6127302043609542
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2002,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2001,845.5400363000675,916.0904888369566,759.1667153623127
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2001,75.36509512174648,136.3524133110723,36.073855449693106
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2001,3.2415898564769745,6.2229059294606355,1.5009487206159977
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2001,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2003,242.973889689244,276.8442152258564,202.60085962810118
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2003,43.475337539943595,46.31004302752843,40.71896147625572
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2011,0.2164082893129842,0.3996962914434898,0.10730907618454154
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2011,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2011,2965.552566991972,3484.4755105590666,2563.803515831927
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2011,580.0996572954297,616.5314089993948,549.3659752798613
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2012,825.5923871550594,894.4544830709739,770.9227593013109
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2002,254.46162986296093,287.61348113619755,213.4580081263486
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2002,45.98626571861163,49.034522173171034,43.05905741716691
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2001,57.99188957467822,95.6882626864765,32.872397181263246
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2001,5.941215704228412,10.405937973477679,3.176859696141433
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2001,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2001,263.71712658691774,296.7431578794099,220.54481477904375
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2001,49.29446895236818,52.36875238175715,46.3553002687621
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2003,2350.267060123708,2556.192883963233,2095.0434012729656
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2003,183.0750244101319,371.52559605485794,80.96619336823368
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2003,5.030631303580674,9.97360170262389,2.1652594067041733
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2003,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2002,2488.2039559168284,2699.2669018762513,2213.455978870528
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2002,183.63919909236088,378.3979035376824,78.74695770311762
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2002,4.633401598499775,9.163281570807381,1.9110633372640429
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2002,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2004,229.55969922362715,260.37946095094406,192.5504701692444
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2004,40.04393016477296,42.70160203826333,37.525400542958344
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2001,327.6502318658246,347.0504172515478,306.8104077788736
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2012,0.21064682807655694,0.3878655431660776,0.10360777102878853
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2012,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2012,2867.7681648070256,3344.5301373904363,2497.341517902388
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2012,545.4220485783001,580.805941838702,516.1792462812343
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2000,340.43396380013564,361.51803672328725,318.5679676052587
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2013,795.8918799562927,858.7323824076773,738.186620556645
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2004,2214.1817598422645,2417.5799189564113,1966.487766315671
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2004,178.1249783013435,340.81635551989046,81.93677171513146
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2004,5.260563309212504,10.591134813210454,2.2325551672361343
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2004,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2002,58.128152480393815,95.18478178917661,33.14607576281816
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2002,6.758081162383973,11.683723717616777,3.5689498596757634
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2002,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2001,45.380104117685235,48.6185147246965,41.49184757754365
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2001,3.63752942417852,6.283588829380475,1.8253717372586393
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2001,2788.9022402843007,2991.080958570975,2540.406526323028
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2003,58.24728567500378,94.15296797255951,33.45611124110271
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2003,7.637952563327099,12.907501210418287,4.050514788703264
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2003,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2006,197.26139418485704,223.77770766619753,162.59343061171748
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2002,319.3478635057391,338.07489422870464,298.8661547263505
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2006,35.11864614615667,37.4435065383743,32.95550613622249
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2013,0.20356765431640378,0.37084388175966926,0.09717301796971786
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2013,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2013,2781.8942747360934,3197.9373330390645,2423.316772975103
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2003,308.8591279275749,325.92098142150354,288.7433125094876
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2013,517.8923018882449,549.6791424115299,489.70809091688443
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2006,2078.4228113474433,2264.4578211818693,1842.2390702362852
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2004,294.78440201970983,311.5441474332086,277.60391614816183
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2006,178.0449891545632,337.56813464786245,84.36946623487266
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2006,5.9390602665262415,12.030684940888879,2.5071857777066207
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2006,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2005,218.59617829666158,248.90966777912786,180.45024739365576
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2005,37.81015781774978,40.26438104725904,35.45432684789119
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2004,36.75135393994282,39.65029914087836,33.59192528517163
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2004,2.9794296698393956,5.059688224697418,1.5185481928303308
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2004,2397.567301452821,2567.025940109148,2199.1679045406595
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2002,42.24226523619501,45.60375930627254,38.554560955135145
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2002,3.4509563518836055,5.968131345254112,1.6884746966196527
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2002,2676.4765566076862,2854.518198855093,2436.742317483031
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2014,759.213582419651,819.3832731534497,701.1357019604103
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2003,1117.7835116018748,1221.1170475902304,1000.724156390186
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2002,4144.606337381428,4932.040266593356,3556.420887285487
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2003,39.89091531861098,42.99810081909297,36.44520605539331
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2003,3.274600940081136,5.626046504325207,1.6483549849968322
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2003,2538.3727158374204,2707.7798071408206,2331.635511465451
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2003,93.2535209230669,170.2908519264627,45.832838169276336
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2003,4.0718556258287135,7.541959883301523,1.9523860153479817
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2003,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2003,4001.9729649818537,4797.649212283424,3418.3013647675302
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2003,253.30391297074388,490.08444909525906,109.50080875679353
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2002,252.28752639667877,492.2732099377537,108.67044321439882
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2002,2.804778358850181,6.265599823295593,0.9946040910782179
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2002,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2003,3.1520975512557943,6.699942253208482,1.1615864948858743
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2003,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2005,57.081232685657994,91.05892738615572,33.33394644567799
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2005,9.349551015264153,15.577458721122698,4.91539163076264
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2005,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2014,0.19399903798450732,0.3539860611357446,0.09034641666319518
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2014,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2004,248.69310818398887,480.6188044800764,110.6083368293053
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2007,1984.556801620984,2152.4149459951873,1784.3062864796839
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2004,3.3885892165630644,7.14208973976745,1.284916229627699
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2004,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2014,2676.14250628015,3072.979083836474,2338.654218929834
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2004,56.91231903261273,91.72253415597822,32.78732321528871
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2004,8.31238376347021,14.075537726206806,4.413459496682548
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2004,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2014,488.9596233587799,524.1765520778872,459.459507514684
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2005,285.0269619975839,298.6048475682448,269.70628377954336
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2007,172.47651884114478,324.17105945500873,83.52528265416726
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2007,6.158784633759647,12.378498057520511,2.6277689381344795
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2007,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2003,790.3272882498396,851.045205671027,711.8434927686295
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2003,73.73981904711363,132.95759052648813,34.89657659247399
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2003,3.709169901083444,7.313350685266364,1.735836590434357
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2003,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2005,2147.5310989076074,2330.2133751136553,1912.0185778677571
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2006,51.009212917107114,81.11554680221525,30.140892547174555
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2006,9.087233254878113,15.270515514095553,4.858832660006793
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2006,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2005,178.79700015133355,343.7543647051602,83.1081501170946
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2005,5.6221802334914965,11.121251582279173,2.356535939157906
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2005,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2015,727.4373898880316,788.7880527145785,669.5028306866424
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2005,34.83432540326533,37.34558254180325,32.087589480470655
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2005,2.6662621783597027,4.531893373841398,1.4206454568776221
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2005,2331.9502792924304,2492.869617678934,2139.311617106595
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2006,32.49116934443874,34.85555986985821,29.775027994334415
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2006,2.3314275868651784,3.940103535882825,1.2284937022518754
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2006,2262.4068607685304,2424.202244225479,2073.2049973221074
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2005,1035.0603469169387,1127.9331381080794,927.8199372067434
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2004,1071.0965125462633,1176.689869106434,963.0866877946178
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2004,91.29757646568389,163.6594289327029,45.9360145008224
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2004,4.327870525307764,7.9369439512430064,2.0920796688513397
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2004,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2005,90.47224439370142,159.87361982786894,46.418832683947215
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2005,4.660631131382023,8.528409663174191,2.3345496355457955
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2005,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2015,2564.7151474525117,2953.99783672912,2201.281358116797
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2015,463.2446073712062,503.2571684796837,432.46645762479756
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2006,3490.5468791868834,4156.250383076545,2967.981641785094
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2015,0.18745422618296545,0.34947885887727714,0.0873978894755312
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2015,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2005,245.21101947586084,474.79986637818115,107.76616808233808
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2005,3.639743136524349,7.733625612983272,1.4473864928022866
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2005,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2005,3656.5356034102756,4331.006022460711,3139.6067790877814
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2006,995.4410245037781,1090.6014470032,891.1080649615737
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2006,87.55559468208652,153.08666201676556,45.129457823446835
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2006,4.651447095363868,8.41126917036352,2.3579762205078456
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2006,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2004,3827.700770841977,4553.706928523174,3254.4498042593495
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2006,698.9216496253338,752.5145133966082,637.0150259724179
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2016,699.3028522210801,758.5643674472655,640.7972235454522
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2006,64.01854127227232,111.16808584114384,29.873349775494905
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2006,3.8275206586594708,7.358312856048642,1.859530764065918
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2006,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2006,239.4718999329035,455.377478751812,105.42788903006432
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2004,759.8773753544973,818.6966121988753,686.4135651050725
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2004,70.7139719454188,125.93291004646552,33.453491953389275
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2004,3.8263872129306136,7.35911739979162,1.8540650951402158
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2004,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2006,3.8399546889877976,7.965676142994763,1.5430974017037058
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2006,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2007,3332.4977983172257,3955.058632617446,2809.198860939887
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2016,442.2692507810065,483.40625173995477,410.2865767888428
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2005,732.1049851240144,793.0445988716423,667.2133958045455
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2007,231.3922995740271,440.5735018438311,100.88635673253611
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2016,0.18409433703565978,0.34549944363910523,0.08567809172482323
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2016,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2016,2454.5712377335544,2812.747343335851,2153.28198598434
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2007,949.7631451406521,1030.850532465025,849.2064627204132
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2007,83.76969857054091,145.5588749516194,43.068315553779975
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2007,4.701324021844634,8.436319807463676,2.412600299124101
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2007,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2005,67.9532922081814,116.86164533262874,32.30819366143614
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2005,3.899336851370669,7.522896397833468,1.8939076130472243
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2005,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2007,3.992742327538922,8.21799448973891,1.605696873588119
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2007,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2007,661.0048208965208,710.2289987152398,605.5504613152501
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2017,671.6247252731179,731.5475320999316,614.6386478230094
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2007,60.01439731494844,104.02138152392226,28.39595135374546
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2007,3.829463716833646,7.235183005957976,1.8705442479356873
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2007,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2008,631.5239816024348,680.588440664598,577.4596166392399
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2008,56.76098739228512,100.1432559402335,27.358414427470215
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2008,3.835340917422106,6.893318413455355,1.8234423203905274
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2008,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2017,0.17453364437993305,0.3336668937870467,0.08150706360693905
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2017,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2017,2351.425220296626,2689.429885488076,2064.4317954074254
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2017,421.13039243208635,465.25453090616867,390.8304848881906
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2009,156.96097802185727,177.54041640101192,130.78677794562572
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2007,182.2819070471046,207.86584368328005,150.67375556392864
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2007,33.15672300844988,35.53590192516445,31.027733651830825
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2009,29.527357522884483,31.62067252160172,27.464349594787596
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2009,1793.9144312621104,1952.7768470637845,1610.9514631748457
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2009,159.1943194702192,291.44978658707237,71.87226661853845
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2009,6.358248821656116,12.408833397836416,2.593310059264472
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2009,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2018,646.6383764098891,707.3653031939299,589.5738488355292
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2008,171.48789476405548,195.16176802985126,140.89426821727105
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2008,31.415858242651385,33.63258718457465,29.28116096878594
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2007,238.39883931550438,249.96189828476008,226.67197872942887
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2010,146.00875404142735,165.82947167577007,123.10247536153271
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2007,47.02557748197163,74.7692842020947,27.987246874620073
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2007,9.09135478642816,15.280906201951252,4.863768545176227
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2007,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2018,0.17066320769857732,0.3349636559935381,0.0763040769260359
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2018,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2018,2245.316249244856,2578.448058762552,1959.9030863925345
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2018,404.979458383529,451.81745281165263,372.9093067448357
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2010,27.864401559935303,29.87733748070604,25.787878958732826
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2008,1908.1866420638694,2077.5758804111147,1719.33313646163
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2008,167.95096682298674,306.9560863547289,79.09701585909593
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2008,6.370454891220849,12.827156236340524,2.6857567732744982
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2008,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2011,135.30386329170236,152.54115133785697,113.66385454157275
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2010,1705.6771014485823,1861.9318275772705,1527.762099277479
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2010,153.66478843001298,297.09559658855545,65.05146908236334
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2010,6.444853316353799,12.497697238369112,2.659174566971528
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2010,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2011,26.385765225562867,28.413626663619798,24.303506870516774
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2007,30.769941130755214,33.06057867747162,28.19620587833562
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2007,2.098283316167639,3.5651882932380055,1.1047074336989386
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2007,2163.1921050958877,2305.899233399952,1988.8445415408607
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2019,620.6331254143923,685.3505793464266,563.0639934799384
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2009,204.31446103199733,214.93367207153528,193.39589320322403
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2008,224.6309480033145,235.31267034757826,213.76097699392272
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2008,911.1038175253741,994.8078199042163,822.8340629763
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2011,1631.567051451835,1792.9752070783934,1457.715618491162
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2006,257.3578403568424,269.3008640589123,245.43359994627332
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2011,150.5617436270219,290.323737978504,59.67869911175756
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2011,6.642168047563841,13.112124652160922,2.6781250946292365
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2011,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2012,24.903931720907536,26.927739629471947,22.92017326432992
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2019,0.16601107336317333,0.32580872954528955,0.07395537183435963
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2019,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2008,80.7055729999767,139.10738303699495,41.11200075221384
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2008,4.78029413294826,8.452656420785267,2.455249206547016
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2008,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2019,2139.120895618801,2468.3165572808084,1870.0644971086485
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2019,389.7048936007941,445.1256116953658,359.8003582900364
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2008,43.91611302144135,69.18154855859214,25.951807747180666
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2008,9.226940217817313,15.172473782787334,4.953716925443881
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2008,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2009,38.6460926040504,60.52807789742017,23.374507114611415
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2009,8.707390406089768,14.176791939954885,4.687339850231252
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2009,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2010,35.44559040774569,54.47284684754796,21.867790758853
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2010,8.576903279978222,13.658266298290707,4.7401516340197025
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2010,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2012,1547.182060037128,1701.7587334520942,1360.1041668715407
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2009,27.713997061176162,29.89094978590183,25.415159020917514
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2009,1.57219714788407,2.7310643084485022,0.8253829020853668
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2009,1959.466999553985,2087.4956551294094,1818.0491118990665
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2010,822.8820654543752,899.0789381588859,742.3260158013857
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2010,73.10172036430174,130.8944798723506,34.921578125275715
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2010,4.618115203279776,8.049767762808768,2.3852112796327027
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2010,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2012,144.8672018503022,284.91406554039617,55.61928257890908
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2012,6.7076164897270365,13.163106978139133,2.5693176679414007
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2012,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2008,29.32802603889506,31.611786281395524,26.85145664387297
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2008,1.821153631176046,3.146808429063455,0.967597273854099
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2008,2082.508063778075,2221.321575340622,1930.2333582818153
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2020,599.2960379696467,666.7206260201231,540.1687108338252
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2010,190.03124772915166,200.62834704065628,180.0988094384878
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2009,217.6966797866949,409.7168598916061,94.5212669213612
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2010,26.233582607293283,28.417581141245098,24.03860023762938
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2010,1.4049033090642853,2.5099776009877273,0.7339056430983691
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2010,1865.7867431949526,1993.2983734333443,1740.6510485688736
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2011,174.98487515193443,185.48549363021976,164.54771832074655
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2008,3172.1413429730837,3766.293886296558,2689.352004821402
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2009,4.198179230447035,8.634341052344633,1.6152651422806774
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2009,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2010,2876.0862924680905,3401.834941613021,2468.854567332676
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2010,213.1712450808689,400.7732612650987,92.57691589225514
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2010,4.3008718398136505,9.094421319317966,1.6300528048937346
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2010,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2008,223.3182335918322,422.91665858446015,94.9858828667169
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2020,0.155970693861901,0.31131154662831517,0.0685735775389052
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2020,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2020,2054.369070869878,2408.8874337721,1778.6905466019348
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2008,4.105351739621359,8.539413494211685,1.6489143254649488
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2008,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2009,3021.621973344442,3573.726599518828,2586.9941882476937
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2020,377.56700147488385,428.18803901212686,342.36535109880083
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2011,31.59460432711468,48.82309374981609,19.39845936227653
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2011,8.08640753311765,12.695141633097933,4.449881131704873
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2011,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2011,24.90101186943822,26.973485153037814,22.735928990972546
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2011,1.2683450668116434,2.2689445909196975,0.6580808206909278
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2011,1788.770963126422,1908.5629875948512,1670.2044625627389
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2010,561.5388028307206,606.0144086766408,514.6806530065887
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2012,753.8892560925823,831.1448792161927,676.2583189574946
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2010,48.20867024227854,85.221543039341,22.45057951682321
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2010,3.667040979204643,6.621035214836191,1.7921308911440024
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2010,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2011,2754.1314953338606,3239.4253045656947,2370.5263497270907
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2012,67.23086867431076,122.11915284086123,29.69338404782663
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2012,4.472262388166143,7.687127845020948,2.283824902495003
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2012,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Tuberculosis,Rate,2021,580.2630551870624,649.8159917640804,522.3740904522177
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2011,207.07882860481115,397.60049019694793,88.48066375859909
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2011,788.7120799369135,865.4482414798381,708.975709740849
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2009,595.9076788171743,638.6538330087658,545.252407817775
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2011,70.46141404542554,126.31989837588971,32.28215439203845
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2011,4.565160806541683,7.864184813555375,2.359406732077787
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2011,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2009,52.18656626525306,91.068818364197,25.033936222027435
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2009,3.7324959224068697,6.627059284468784,1.827443456877869
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2009,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2011,4.342243053299002,9.195027655573154,1.597270140978239
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2011,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2012,23.523886919062075,25.49797176730803,21.625714587002296
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2012,1.1693979737688955,2.1109817371426804,0.5991341801282924
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2012,1698.756878377157,1821.393036697141,1585.5205143138367
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Tuberculosis,Rate,2021,1976.0559023701878,2309.042316509645,1708.9836178326434
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2013,726.4918376835863,795.0990073044187,649.1375118965701
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Tuberculosis,Rate,2021,368.0340998673666,427.2137223142396,332.80647866293157
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2021,0.15419899316982388,0.2976714795471065,0.06719323430767324
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2013,65.02802219833185,118.50458583131149,28.476657789155816
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2013,4.372020074374231,7.543657430076277,2.174154579118901
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2013,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2012,2661.972486858477,3109.376869620113,2289.3626140523816
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2011,531.1651109190951,576.5953908360073,484.1631181435966
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2011,45.244397460062416,79.81354893109567,20.77084562779573
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2011,3.6901489162717436,6.563179081699305,1.7908480792400243
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2011,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2009,863.7426209971067,942.2332393153346,772.8096618793553
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2012,499.77169974359396,540.9128370200518,456.4580456201791
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2012,42.028422447024,73.5320547289492,18.621404024310067
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2012,3.6219263876817984,6.382816490522887,1.7174422796781237
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2012,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2009,76.22472084695175,135.58654027036383,37.69135857633319
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2009,4.641258576604217,8.18627335786148,2.388413092056764
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2009,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2012,201.36530016136564,391.17161722358975,87.55357368365264
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2012,4.430377787187154,9.372113315345718,1.6358299237476617
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2012,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2013,2579.5921531892814,2997.338766050061,2217.0745798518988
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2013,197.74200444304006,386.31803831024644,87.30715584413717
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2013,4.560117103773438,9.7952971040771,1.6649020226217297
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2013,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2013,115.35772247626855,129.76288798200534,99.20090397336195
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2013,23.459804406078323,25.391340624109713,21.639969841613553
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2012,125.0761775467705,140.6742832731032,105.11033329344066
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2013,1483.6817346554144,1637.4326106613703,1306.0876640052375
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2013,143.08958294992937,295.33711542801507,54.58352349950296
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2013,6.958618241431377,13.819024208797302,2.5536944546986686
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2013,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2013,475.7516679908224,514.1932079467814,433.43812961847453
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2013,38.705595950781685,71.15014391133518,16.57281812393732
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2013,3.4350379466401018,6.000223839079486,1.6246453736147266
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2013,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2014,106.7973626029475,120.79777455572946,92.10183478151788
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2014,22.143432393724844,24.16757561544778,20.39758651738358
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2015,99.12022943305804,111.98800629201843,85.1026847063663
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2015,21.333724462757466,23.509986612648444,19.610293741363876
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2014,450.630411697861,489.36610187509933,410.1896016336959
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2014,35.08671884119738,64.71124458067611,14.554922463015945
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2014,3.242492819721876,5.616669661175273,1.5048864216564704
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2014,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2012,160.97541238583136,171.32942663757117,151.122379388969
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2014,1405.2382766857124,1562.5964946046108,1229.7638202910955
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2014,135.48078433489903,284.1457088226601,49.843030275288214
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2014,6.807328334476033,13.947088447321905,2.49121891679537
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2014,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2015,1342.4163844806517,1500.7888890014106,1168.3230477887187
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2016,92.77887593637035,105.38640882364184,80.47437256715277
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2015,131.9370864083249,274.8071275336208,47.794601241203516
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2015,6.834945459500993,14.395306383899237,2.4518519723641568
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2015,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2016,20.621315687890036,22.81440219537985,18.95425035445562
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2013,147.4919542689625,157.0639556148491,138.58793060972397
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2017,86.59111761280614,98.30616824428357,74.958783717329
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2013,24.981442464810478,37.70588459441777,15.153950971378952
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2013,7.152789327883405,11.088838464579931,4.064739041093967
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2013,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2017,19.927345224147047,21.947066129255283,18.187174494242555
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2016,1285.699426224401,1435.8154153732066,1112.919749241579
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2016,130.1889163691264,277.361319492565,44.16582821791413
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2016,7.000792399866539,14.857757126144651,2.4339108783122687
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2016,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2013,22.17387921013882,24.058914439982892,20.342836155790522
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2013,1.0823575416230733,1.998239112007247,0.5508039533992581
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2013,1633.7299358467762,1759.2256410004018,1508.8717020238867
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2012,28.230405404435366,42.45270877335812,17.185137627665995
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2012,7.668829434625534,11.965158283264875,4.279540408741907
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2012,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2017,1235.3671523085768,1383.9114330626842,1064.1994505352386
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2017,127.94742330861837,266.77052511054984,42.6117294422749
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2017,7.111539666200265,14.939483339958873,2.3796981697608643
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2017,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2015,124.40500143841848,133.77626937008912,115.65634723362103
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2014,22.086961771072314,33.28998840949585,13.401732374542565
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2014,6.664408178706729,10.240581244591125,3.880975080325772
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2014,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2018,1183.876650689152,1327.9974023503275,1022.3413830772465
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2014,135.54873255272648,146.148098741452,126.41304616395819
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2018,125.22018020640706,264.7680965691487,39.80691151615911
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2018,7.2041004130745305,15.497232672618011,2.44028441874899
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2018,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2015,20.203662866813005,22.16900756725256,18.452684059950176
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2015,0.9426073697614749,1.753413974520436,0.45456550522893924
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2015,1481.1884163484779,1600.4724306107678,1351.0371944049225
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2015,664.2978064070638,734.251655744904,594.8336478466389
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2015,19.250118851189164,28.900365340373735,11.689872419720198
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2015,6.034653154171362,9.345112490693266,3.50361478694981
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2015,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2015,59.102706115347125,113.38894876516325,24.866062096174563
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2015,4.036877365620591,7.2322179436007925,1.96201961847461
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2015,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2014,2479.840778889004,2892.467530775144,2120.0441074906194
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2016,115.06671717560327,125.33443232180112,106.18760938747317
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2015,187.60636668491824,376.054182804914,82.20861422034665
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2015,4.64350831614907,9.845554837200876,1.6358225100737218
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2015,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2016,16.872117357278604,25.906070550432865,10.100318082340042
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2016,5.4157238819544915,8.398515164124122,3.1432535170480183
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2016,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2016,19.532188022808192,21.625143657502854,17.833874086510278
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2016,0.9050333280461683,1.7458530949886177,0.42278202571918766
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2016,1422.8891349933951,1537.9889347038652,1294.5285331483383
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2014,20.949332600238094,22.860012815711045,19.16303259274215
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2014,1.0001007555022652,1.8398579376686535,0.49135351337874755
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2014,1547.5263893550878,1666.2032725054419,1439.6227783410975
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2017,105.73839709547653,115.8964248627562,97.06761261016769
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2016,637.6898672928295,705.1601119585351,569.3714157391192
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2016,57.65120351852285,111.55203388026206,24.100328560604776
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2016,3.961781409727421,6.9626979599545535,1.8937044032218815
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2016,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2014,191.71566408797358,375.1511865606039,85.22781450423362
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2014,4.586063303167406,9.617857695613992,1.7345731809812663
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2014,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2017,14.448954807151987,22.650372842000518,8.392008916507471
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2017,4.698324675518354,7.203389434323849,2.7198790085337974
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2017,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2016,182.20286069671204,364.37844308631463,78.80103161301024
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2015,2372.4652724514403,2744.1355906511053,2031.746496351405
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2016,4.693141505958283,9.691354190409859,1.6646913686039726
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2016,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2017,18.901902001500034,20.9636036562649,17.06892088258134
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2017,0.8509095782670677,1.6690981184732039,0.38785658566805
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2017,1370.4261152833988,1490.917861906613,1236.8146329826743
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2017,611.715049912466,680.9387721641077,544.3748863682966
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2017,56.07838883864676,108.96218688527556,23.418575127856325
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2017,3.8312865220051355,6.767298750343746,1.7964772457239981
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2017,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2014,693.6972365966882,764.5283093264246,619.9370620318714
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2014,61.33551193468537,113.83646691541074,26.41073956539584
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2014,4.1808338882779985,7.314038603057247,2.065185708759201
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2014,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2015,427.517546997044,468.37605227755637,387.13355376690515
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2015,32.59389478350932,60.80454227853265,12.989001625255943
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2015,3.1331655906528724,5.520182178317749,1.422095695097388
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2015,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2016,2267.6752355308877,2615.627783404148,1950.8750457603253
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2018,18.332588834718194,20.421241558733076,16.512541730082017
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2018,0.8156178950711391,1.646460987565981,0.3595618370613522
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2018,1316.3009313086332,1438.6200917386298,1185.360433619135
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2017,2168.9719200386994,2491.383260848146,1870.0032326526352
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2018,172.71114951581535,339.34826407272664,74.7179810439478
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2018,4.853057976920551,10.15510695268065,1.6989992360307462
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2018,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2018,2067.7520417521214,2385.4052148327323,1775.8803876605868
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2017,177.66923809057442,349.9976716493507,76.00479008953596
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2017,4.784062167348938,9.948886328617178,1.7009521950937894
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2017,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2018,82.55704649096832,94.09104130134935,71.76864544566479
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2018,19.31886993748792,21.423846598190178,17.631802614594793
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2019,563.7001889157287,632.037474114968,495.7661214656525
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2019,53.19220549933341,102.21015514058112,22.35131679707138
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2019,3.74073099933012,6.787780450762414,1.6956481293878654
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2019,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2016,407.51434390931,445.6013042365297,366.3196645114026
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2016,31.600850289713048,61.19000425331536,12.344881547486581
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2016,3.1540565819832165,5.495669034348156,1.3983883268836426
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2016,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2019,1967.3057202715972,2295.0645829728605,1691.7853886310195
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2017,387.4956973655243,426.6477857948467,347.60687352028776
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2017,30.543290922784536,58.29661833229979,11.519293654583581
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2017,3.0914041437776736,5.488278961727192,1.351540697957424
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2017,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2018,587.958167576914,654.4737227388217,520.2218310516897
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2018,54.87605557805171,105.52506538689752,22.58850381401561
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2018,3.8041532549230874,6.849936735255148,1.7444207678144428
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2018,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2019,166.95328146178161,335.10109921041163,70.72710762537334
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2019,4.861893885422592,10.483680286337595,1.6575941412833348
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2019,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2018,371.9872918908061,416.21534973360474,333.26925247203025
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2018,29.94232127931941,57.5922166946917,11.143604239902825
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2018,3.0498452134038345,5.49722385489208,1.2965516226001326
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2018,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2020,75.14228690125901,86.77165639181433,64.59650409128767
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2020,17.9077080115206,20.261960524833697,16.119389981983968
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2019,357.75664026468286,409.97808279033046,315.6529072525389
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2020,1076.4665265504123,1223.4362823589063,906.0860954207172
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2019,28.94336345740714,55.59233491061761,11.27412753746481
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2019,3.004889878704398,5.380841733682067,1.275068499418062
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2019,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2021,73.19096604562138,85.60648512045044,61.902788183871245
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2021,17.782433694911514,20.38356576355219,15.970493310921038
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2020,116.88985389775844,255.06376319451306,37.163992893481925
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2020,6.9434558575301555,15.064393206173257,2.2957983656262066
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2020,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2020,346.359313745712,393.4109449946366,305.19951320332495
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2020,28.31244529582966,55.58298212767873,11.064463248682555
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2020,2.895242433342149,5.297237320164275,1.2282748705555004
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2020,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2021,1033.5163827506158,1189.4148046529415,854.5706102196765
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2021,113.99281012166912,248.83281096820326,37.12411535940379
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2021,6.756800597730735,14.632359945420863,2.2644412790474817
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2019,78.52640696339726,89.47920992359475,66.46288152817117
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Tuberculosis,Rate,2019,18.550435414017926,20.86629459111413,16.820595661454316
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2019,1125.8387539493274,1276.2653728345504,943.0559398837279
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2019,120.81542576389381,261.2567278849157,38.015113516753885
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2019,7.190894176323247,15.772348230995098,2.4511161452867434
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2019,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2018,13.343885750478814,21.367041963299584,7.67582639375935
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2018,4.470147494178203,6.953188695993958,2.557318017297396
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2018,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2019,94.93587308362044,107.16412152885785,86.5441377431325
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2018,100.37107973562532,110.26021715831882,91.63998453868945
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2019,12.214718648453701,19.724010514454676,6.948494563948208
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2019,4.194747471769624,6.499648103222813,2.420723638267865
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2019,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2020,11.352098486013501,19.078566172433458,6.520309881894074
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2020,3.8220312969446417,5.949348710732504,2.174498722002744
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2020,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2019,17.605360738375026,19.735251322787498,15.747475273796137
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2019,0.7790636022796984,1.6084121791683756,0.32667285849196154
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2019,1253.845073889544,1382.663882500336,1131.9013294346692
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2020,90.31641668421713,100.80841942410798,80.3865808460671
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2021,87.94607374036556,100.04718007457029,79.10219948951305
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2021,11.037596393802986,18.02631865473084,6.326054786273324
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2021,3.7175113009411644,5.938974846651956,2.0644554333847687
+DALYs (Disability-Adjusted Life Years),High-middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2020,17.000052311414237,19.201433474410642,15.23452345035078
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2020,0.7516850062444768,1.5650766510951317,0.31257444649280863
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2020,1200.2998363056995,1332.9667929118673,1069.6241760196765
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2021,526.0251626151702,596.4589586840585,457.24878131324107
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2021,50.763413849932306,99.36908516525932,21.27550588172483
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2021,3.4744787219598323,6.434333379224889,1.5110008343786832
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2021,16.883905911200188,19.283507995922076,14.9429367774704
+DALYs (Disability-Adjusted Life Years),High SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2021,0.7443287905414903,1.5236940853981875,0.30957078372309504
+DALYs (Disability-Adjusted Life Years),Low-middle SDI,Both,Age-standardized,Tuberculosis,Rate,2021,1154.2659934700152,1300.63993993224,1020.3699246094312
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2020,543.905879731847,612.8126044646752,479.5542831301413
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2021,1813.8428271836797,2114.1157843562264,1550.6716932845593
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2020,1887.4814706741963,2205.6317310834243,1616.9785295320837
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2020,51.81970822985878,100.10371550372979,21.556976461360666
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2020,3.570450007941563,6.616069936467929,1.5936245937724896
+DALYs (Disability-Adjusted Life Years),Global,Both,Age-standardized,Latent tuberculosis infection,Rate,2020,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2020,162.15551130824247,326.28045307479476,67.05272918426782
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2020,4.732088887438388,10.234387047728747,1.6190916394477777
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2020,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2021,157.60917522837335,316.55011791047974,66.10826799205623
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2021,4.603899958134487,10.132237637999392,1.5908209794788317
+DALYs (Disability-Adjusted Life Years),Low SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2021,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Drug-susceptible tuberculosis,Rate,2021,337.2804518909291,391.46879332168265,296.1865701455671
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Multidrug-resistant tuberculosis without extensive drug resistance,Rate,2021,27.93831792715655,55.83145625827815,10.717478517947978
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Extensively drug-resistant tuberculosis,Rate,2021,2.8153300492803885,5.161182011929521,1.1839943893244784
+DALYs (Disability-Adjusted Life Years),Middle SDI,Both,Age-standardized,Latent tuberculosis infection,Rate,2021,0.0,0.0,0.0
